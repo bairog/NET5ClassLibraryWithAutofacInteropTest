@@ -1,0 +1,12 @@
+{
+  "components": [
+    {
+      "type": "NET5ClassLibraryImplementation.DataCreate, NET5ClassLibraryImplementation",
+      "services": [
+        {
+          "type": "NET5ClassLibraryInterface.IDataCreate, NET5ClassLibraryInterface"
+        }
+      ]
+    }
+  ]
+}

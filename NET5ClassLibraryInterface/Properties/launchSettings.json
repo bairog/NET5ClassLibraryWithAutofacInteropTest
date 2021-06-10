@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NET5ClassLibraryInterface": {
+      "commandName": "Executable",
+      "executablePath": "D:\\NET5ClassLibraryWithAutofacInteropTest\\BIN\\NET5ClassLibraryInteropTest.exe",
+      "workingDirectory": "D:\\NET5ClassLibraryWithAutofacInteropTest\\BIN\\"
+    }
+  }
+}
